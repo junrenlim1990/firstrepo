@@ -1,3 +1,7 @@
 hihi
 firstC
+<<<<<<< HEAD
 secondC
+=======
+t
+>>>>>>> br
